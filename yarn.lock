@@ -1969,6 +1969,17 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@stripe/react-stripe-js@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-2.4.0.tgz#b69d383a2b13e1104c5766695e7a865899cc84fb"
+  integrity sha512-1jVQEL3OuhuzNlf4OdfqovHt+MkWh8Uh8xpLxx/xUFUDdF+7/kDOrGKy+xJO3WLCfZUL7NAy+/ypwXbbYZi0tg==
+  dependencies:
+    prop-types "^15.7.2"
+
+"@stripe/stripe-js@stripe/stripe-js":
+  version "2.2.0"
+  resolved "https://codeload.github.com/stripe/stripe-js/tar.gz/c5ce917ba79cff10b8cb70c8d92139c8fd51bb7f"
+
 "@surma/rollup-plugin-off-main-thread@^2.2.3":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-2.2.3.tgz#ee34985952ca21558ab0d952f00298ad2190c053"
